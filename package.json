@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JohnKim/stalk-messenger-options/issues"
   },
-  "homepage": "https://github.com/JohnKim/stalk-messenger-options#readme"
+  "homepage": "https://github.com/JohnKim/stalk-messenger-options#readme",
+  "dependencies": {
+    "optimist": "^0.6.1"
+  }
 }
